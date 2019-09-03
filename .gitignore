@@ -1,0 +1,3 @@
+*.ospx
+tests.xml
+.vscode/settings.json
